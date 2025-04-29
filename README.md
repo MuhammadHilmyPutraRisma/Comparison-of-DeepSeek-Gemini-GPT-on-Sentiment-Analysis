@@ -3,10 +3,11 @@ Python code for comparing the performance of DeepSeek API, Gemini API, and GPT A
 
 ## Features
  
-- Data scraping
-- Data cleaning
+- Data scraping and preprocessing
 - Integration with DeepSeek, Gemini, and GPT APIs
-
+- Sentiment classification using each LLM API
+- Comparative analysis of model performance, runtime, and cost
+- Confusion matrix visualization for each model
 
 ## Prerequisites
 
