@@ -16,3 +16,10 @@ Python code for comparing the performance of DeepSeek API, Gemini API, and GPT A
 - DeepSeek API (https://platform.deepseek.com/usage)
 - Gemini API (https://aistudio.google.com/app/apikey)
 - GPT API (https://platform.openai.com/usage)
+
+## Output Data
+![image](https://github.com/user-attachments/assets/a4cda66e-0532-4fce-818d-033e20cbb4d1)
+
+## Output Matrix
+![image](https://github.com/user-attachments/assets/16972b13-a2e5-449b-bced-88f7930ff8c7)
+
